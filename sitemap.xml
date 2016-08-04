@@ -4492,6 +4492,11 @@
    </url>
 
    <url>
+      <loc>https://www.it-events.ro/eveniment/2013/06/fb-434367953321837-bal-de-absolvire-facultatea-de-matematica-si-informatica.html</loc>
+      <changefreq>daily</changefreq>
+   </url>
+
+   <url>
       <loc>https://www.it-events.ro/eveniment/2013/06/fb-435240539906804-project-lambda-functional-programming-constructs-and-simpler-concurrency.html</loc>
       <changefreq>daily</changefreq>
    </url>
@@ -14747,6 +14752,11 @@
    </url>
 
    <url>
+      <loc>https://www.it-events.ro/eveniment/2015/11/fb-174502249566851-prezentare-facultatea-de-automatic-i-calculatoare-n-cdsh.html</loc>
+      <changefreq>daily</changefreq>
+   </url>
+
+   <url>
       <loc>https://www.it-events.ro/eveniment/2015/11/fb-174946732852628-ewine-hacktm-2015.html</loc>
       <changefreq>daily</changefreq>
    </url>
@@ -14808,6 +14818,11 @@
 
    <url>
       <loc>https://www.it-events.ro/eveniment/2015/11/fb-593525097455271-tech-business-talk-with-lukas-eder-datageekery-com-jooq-org.html</loc>
+      <changefreq>daily</changefreq>
+   </url>
+
+   <url>
+      <loc>https://www.it-events.ro/eveniment/2015/11/fb-608654922608663-prezentare-facultatea-de-automatic-i-calculatoare-n-ltgm.html</loc>
       <changefreq>daily</changefreq>
    </url>
 
@@ -18347,6 +18362,26 @@
    </url>
 
    <url>
+      <loc>https://www.it-events.ro/eveniment/2016/08/fb-1563292797312805-training-day-at-yapc-europe-2016-cluj.html</loc>
+      <changefreq>daily</changefreq>
+   </url>
+
+   <url>
+      <loc>https://www.it-events.ro/eveniment/2016/08/fb-1567611633541692-yapc-europe-2016-conference-party.html</loc>
+      <changefreq>daily</changefreq>
+   </url>
+
+   <url>
+      <loc>https://www.it-events.ro/eveniment/2016/08/fb-1651350025180810-pre-conference-meet-greet-yapc-europe-2016-cluj.html</loc>
+      <changefreq>daily</changefreq>
+   </url>
+
+   <url>
+      <loc>https://www.it-events.ro/eveniment/2016/08/fb-1737687063160067-how-to-create-a-startup-team-and-conquer-the-world.html</loc>
+      <changefreq>daily</changefreq>
+   </url>
+
+   <url>
       <loc>https://www.it-events.ro/eveniment/2016/08/fb-1931915517032927-yapc-europe-2016-cluj.html</loc>
       <changefreq>daily</changefreq>
    </url>
@@ -18407,12 +18442,22 @@
    </url>
 
    <url>
+      <loc>https://www.it-events.ro/eveniment/2016/08/mtup-233099505-transylvania-java-user-group-meeting-55-low-level-details-for-java-devel.html</loc>
+      <changefreq>daily</changefreq>
+   </url>
+
+   <url>
       <loc>https://www.it-events.ro/eveniment/2016/08/mtup-dvppbkyvlbfb-meetup-53-mythbusting-code-is-the-key.html</loc>
       <changefreq>daily</changefreq>
    </url>
 
    <url>
       <loc>https://www.it-events.ro/eveniment/2016/08/mtup-mktmflyvlbxb-tm-47-tdt-learning-to-test-testing-to-learn.html</loc>
+      <changefreq>daily</changefreq>
+   </url>
+
+   <url>
+      <loc>https://www.it-events.ro/eveniment/2016/09/evtbt-26929451715-intalnire-grup-prestashop-romania.html</loc>
       <changefreq>daily</changefreq>
    </url>
 
@@ -18428,6 +18473,11 @@
 
    <url>
       <loc>https://www.it-events.ro/eveniment/2016/09/fb-212369792496326-webstock-awards.html</loc>
+      <changefreq>daily</changefreq>
+   </url>
+
+   <url>
+      <loc>https://www.it-events.ro/eveniment/2016/09/fb-551738675033069-concursul-grepit-9.html</loc>
       <changefreq>daily</changefreq>
    </url>
 
@@ -18517,6 +18567,16 @@
    </url>
 
    <url>
+      <loc>https://www.it-events.ro/eveniment/2016/11/evtbt-26922578156-scrum-training.html</loc>
+      <changefreq>daily</changefreq>
+   </url>
+
+   <url>
+      <loc>https://www.it-events.ro/eveniment/2016/11/fb-1154689784579933-romanian-testing-conference.html</loc>
+      <changefreq>daily</changefreq>
+   </url>
+
+   <url>
       <loc>https://www.it-events.ro/eveniment/2016/11/fb-293876407668788-devtalks-for-juniors-2016.html</loc>
       <changefreq>daily</changefreq>
    </url>
@@ -18528,6 +18588,11 @@
 
    <url>
       <loc>https://www.it-events.ro/eveniment/2016/11/fb-585140394999521-defcamp-2016.html</loc>
+      <changefreq>daily</changefreq>
+   </url>
+
+   <url>
+      <loc>https://www.it-events.ro/eveniment/2016/11/fb-648214218660086-romanian-testing-conference.html</loc>
       <changefreq>daily</changefreq>
    </url>
 
@@ -18668,6 +18733,11 @@
 
    <url>
       <loc>https://www.it-events.ro/eveniment/2017/08/mtup-dvppbkywlbdb-upcoming-meetup-call-for-content-owners-tdt-cluj.html</loc>
+      <changefreq>daily</changefreq>
+   </url>
+
+   <url>
+      <loc>https://www.it-events.ro/eveniment/2017/08/mtup-qjgbzjywlbfb-drupal-cluj-meetup.html</loc>
       <changefreq>daily</changefreq>
    </url>
 
